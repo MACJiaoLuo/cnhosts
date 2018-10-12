@@ -1,6 +1,35 @@
-<img src="https://i.loli.net/2017/10/26/59f16e54c30af.png" alt="logo" width="100" height="100" align="right" />
+absolutely Block AD only hosts based on neoHosts
+================================
 
-# neoHosts
+一个好的 hosts 项目具备以下几个特征：
+
+- 合理规划
+
+    基础部分按功能分类，细分成很多文件，方便管理，也方便大众参与
+
+- 作用明确
+
+    hosts 主要作用是屏蔽广告或加速域名解析
+
+- 观念中立
+
+    不要试图加入作者的价值观判断，即使看上去伟光正。教育用户，那不是 hosts 项目应该做的事情
+
+- 避免混杂
+
+    如果上条做不到，那么价值判断部分应该单独出来，让用户自己选择
+
+本项目在 neoHosts 的基础上作了微小改进，配合 [OpenWrt shadowsocks路由器智能、自动翻墙教程](https://github.com/softwaredownload/openwrt-fanqiang) 使用
+
+感谢原作者
+
+[Full Hosts 下载](https://github.com/softwaredownload/neohosts/raw/data/_build/tmp/full/hosts)
+-----------------
+
+--------
+
+以下是原项目的信息：
+
 
 > **自由、负责、克制** 的去广告 Hosts
 
