@@ -2,6 +2,7 @@ absolutely Block AD only hosts based on neoHosts
 ================================
 
 一个好的 hosts 项目具备以下几个特征：
+-------------------
 
 - 合理规划
 
@@ -23,7 +24,7 @@ absolutely Block AD only hosts based on neoHosts
 
 感谢原作者
 
-[Full Hosts 下载](https://github.com/softwaredownload/neohosts/raw/data/_build/tmp/full/hosts)
+[点击下载 absolutely Block AD only Full Hosts](https://github.com/softwaredownload/neohosts/raw/data/_build/tmp/full/hosts)
 -----------------
 
 --------
