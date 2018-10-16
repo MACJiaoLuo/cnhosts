@@ -24,7 +24,7 @@ absolutely Block AD only hosts based on neoHosts
 
 感谢原作者
 
-[点击下载 absolutely Block AD only Full Hosts](https://github.com/softwaredownload/neohosts/raw/data/_build/tmp/full/hosts)
+[点击下载 absolutely Block AD only Full Hosts](https://github.com/softwaredownload/cnhosts/raw/data/_build/tmp/full/hosts)
 -----------------
 
 --------
